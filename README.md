@@ -20,11 +20,11 @@ Step 5: Displaying data in a html table
 FUTURE ENHANCEMENTS-
 
 Given time following improvements can be added- 
-1. Proper Error Checks 
-2. Improvement in data representation 
-3. Improvement in some code logic
+1. Improvement in data representation eg.  pie-charrepresentation of issues
+2. Improvement in  code logic - badresponse handling 
 
  URL FOR LIVE APPLICATION -
+  https://stormy-castle-35953.herokuapp.com/shippable.php
  
-
+  
 
